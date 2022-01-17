@@ -14,8 +14,9 @@
 ###  رزومه
 
 https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md 
-
+---
 ### HTML certifect
 https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md
+---
 ### java script certifect
-*** https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-24305552-1024.png
+https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-24305552-1024.png
