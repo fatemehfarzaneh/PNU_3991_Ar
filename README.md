@@ -11,7 +11,7 @@
 
 ---
 <ol>
- <li>رزومه</li> = index.md
+ <li>رزومه#  </li> 
  <li> </li>
  <li>    </li>
  <li> </li>
