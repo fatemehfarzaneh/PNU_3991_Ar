@@ -78,8 +78,8 @@
  
  
  <li> Java </li>
- <li> C</li>
- <li> ++C</li>
+
+ <li>c++</li>
 
 
 
