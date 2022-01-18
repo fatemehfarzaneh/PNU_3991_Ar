@@ -15,7 +15,7 @@
 ----
 #  ارزیابی
  -  [ارزیابی رزومه و انگیزه نامه]
- -  [خلاصه ارزیابی بخش عمومی]
+ -  [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
 
 ----
 # دروس کارشناسی
