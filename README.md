@@ -11,7 +11,7 @@
 ---
 ###  رزومه
 <OL>
- - [رزومه](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md)
+ -  [رزومه]  (https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md)
  
  </ol>
 
