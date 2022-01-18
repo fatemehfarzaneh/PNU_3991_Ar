@@ -35,8 +35,6 @@
 <ol>
  
  <li> word /Excel/ powerpoint </li>
- <li>  برنامه نویسی<li>
- <li> </li>
 </ol>
 
 
