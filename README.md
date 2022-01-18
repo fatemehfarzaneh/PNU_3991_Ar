@@ -1,32 +1,17 @@
 # PNU_3991_Ar
 ---
-### فاطمه فرزانه
+#فاطمه فرزانه
 
-<OL>
+ -  [رزومه](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md)
  
- 
- </ol>
-
 
 ---
-###  رزومه
-<OL>
- -  [رزومه]  (https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md)
- 
- </ol>
+# HTML certifecat
+
+- [HTML](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-1014-24305552.jpg )
 
 ---
-### HTML certifecat
-<OL>
- <div>https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-1014-24305552.jpg </div>
- 
- </ol>
- 
- 
- 
----
-### java script certifecat
-<OL>
- 
- <div>https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-24305552-1024.png</div>
- </ol>
+#java script certifecat
+
+ - [JavaScript certificate](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/cert-24305552-1024.png)
+
