@@ -5,7 +5,7 @@
  - [PNU_3993_Ar](https://github.com/fatemehfarzaneh/PNU_3991_Ar) 
  - [حساب گیت هاب](https://github.com/fatemehfarzaneh)
  
--  [رزومه](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/index.md)
+-  [رزومه](https://fatemehfarzaneh.github.io/PNU_3991_Ar/)
 -  [SOP](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/SOP)
 
 
