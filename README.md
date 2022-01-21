@@ -15,7 +15,7 @@
 
 ----
 #  ارزیابی
- -  [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehfarzaneh/PNU_3991_Ar)
+ -  [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehfarzaneh/PNU_3991_Ar/commit/d8646532fbb87e22fda36c821bd9679)
  -  [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
 
 ----
