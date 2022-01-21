@@ -21,6 +21,6 @@
 ----
 # دروس کارشناسی
 کارآموزی
--  [گزارش کارآموزی]
+-  [گزارش کارآموزی](https://github.com/fatemehfarzaneh/PNU_3991_Ar/blob/main/XX_internship_report_AR_3993.pdf)
 
 
